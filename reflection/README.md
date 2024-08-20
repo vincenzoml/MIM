@@ -1,0 +1,9 @@
+EXERCISE: reflect an image along a plane.
+
+Symmetry plane: ax + by + cz + d = 0 
+
+Coordinates a,b,c,d
+
+in voxel space: (0.9177152418942791,0.08030779707443489,0.3890364925350529,-290.8034951038973)
+
+in world space: (0.9924836220541741,-0.05212545508258863,-0.11072125760963994,2.3857208861254797)
