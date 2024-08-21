@@ -11,4 +11,4 @@ WORKDIR /home/mim
 RUN export PATH=$PATH:/home/mim/.local/bin
 
 RUN python3 -m pip install --upgrade pip
-RUN pip install simpleitk
+RUN pip install simpleitk numpy
